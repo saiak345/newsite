@@ -1,1 +1,1 @@
-web: gunicorn fix.wsgi 
+web: gunicorn fix.wsgi
